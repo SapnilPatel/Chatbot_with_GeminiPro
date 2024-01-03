@@ -1,3 +1,6 @@
 # Dont push environment creation files to GitHub
 chatbotwithgeminipro/
 
+# Dont expose API Key to users
+.env
+
