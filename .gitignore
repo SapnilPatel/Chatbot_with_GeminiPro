@@ -4,3 +4,5 @@ chatbotwithgeminipro/
 # Dont expose API Key to users
 .env
 
+streamlit/
+
