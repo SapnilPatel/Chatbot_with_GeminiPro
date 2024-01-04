@@ -1,4 +1,4 @@
-# Chatbot with Google Gemini Pro API
+# 🚀Chatbot with Google Gemini Pro API🚀
 
 Welcome to the documentation for my chatbot powered by the Google Gemini Pro API! This chatbot is designed to provide a seamless conversational experience and is deployed on HuggingFace Space. It also has the capability to store the history of that particular session during the conversation.
 
@@ -12,21 +12,21 @@ Welcome to the documentation for my chatbot powered by the Google Gemini Pro API
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
+## 🧑‍💻Introduction
 
 My chatbot leverages the power of the Google Gemini Pro API to provide a natural and engaging conversation experience. Whether you want to integrate it into your application or use it for research purposes, this chatbot is flexible and easy to use.
 
-## Features
+## 🤖Features
 
 - Seamless integration with Google Gemini Pro API.
 - Deployment on Hugging Face Space for easy sharing and access.
 - Ability to store the history of that particular session during the conversation.
 
-## Demo
+## 💻Demo
 
 Try out it over here:- https://huggingface.co/spaces/Sapnil/Chatbot_with_GeminiPro
 
-## Getting Started
+## ✍️Getting Started
 
 ### Prerequisites
 
@@ -36,7 +36,7 @@ Before you begin, make sure you have the following prerequisites:
 - Google Gemini Pro API credentials (Get your Free API here:- https://makersuite.google.com/app/apikey)
 - HuggingFace account
 
-### Installation
+### 🔧Installation
 
 1. Clone the repository:
 
@@ -54,9 +54,9 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
-## Contributing
+## 🤝Contributing
 I welcome contributions! If you have ideas for improvements, bug reports, or feature requests, please open an issue or submit a pull request.
 
-## License
+## 📄License
 
 This project is licensed under the [MIT License](https://github.com/SapnilPatel/Chatbot_with_GeminiPro/blob/main/LICENSE).
